@@ -1,0 +1,22 @@
+.header{
+    background-color: black;
+   display: flex;  
+}
+.header a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+.header a:hover{
+    color: red;
+}
+.header img{
+    width: 60px;
+    margin: 20px;
+}
+.nav-info{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
